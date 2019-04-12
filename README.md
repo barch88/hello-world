@@ -1,2 +1,3 @@
 # hello-world
 my first python experience
+Hello world, my name is Michael. I'm on my journey to become a professional coder. My first memories of coding were posting on paintball forums at age 13. I recall trying to post pictures of my paintball guns and having to learn basic HTML <img> tags. I eventually took an HTML programming class in High School. It was awesome because not only was I good at it, I actually enjoyed doing it! I remember completing the course ahead of schedule and was able to create my own projects in class.  Sadly, as life passed by I never pursued this passion of mine...until now :)
